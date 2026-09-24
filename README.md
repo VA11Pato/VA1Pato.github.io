@@ -1,4 +1,3 @@
-# VA1Pato.github.io
 <!DOCTYPE html>
 <html lang="es">
 <head>
